@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ACS575__Demo_C_
-build_property.ProjectDir = C:\Users\Alekz\Desktop\ACS575 - Final Project\acs575finalproject\Demo\ACS575, Demo C#\
+build_property.ProjectDir = C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

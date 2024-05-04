@@ -30,3 +30,20 @@ C:\Users\Alekz\Desktop\ACS575 - Final Project\Demo\ACS575, Demo C#\obj\Debug\net
 C:\Users\Alekz\Desktop\ACS575 - Final Project\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.pdb
 C:\Users\Alekz\Desktop\ACS575 - Final Project\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.genruntimeconfig.cache
 C:\Users\Alekz\Desktop\ACS575 - Final Project\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ref\ACS575, Demo C#.dll
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\bin\Debug\net8.0-windows\ACS575, Demo C#.exe
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\bin\Debug\net8.0-windows\ACS575, Demo C#.deps.json
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\bin\Debug\net8.0-windows\ACS575, Demo C#.runtimeconfig.json
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\bin\Debug\net8.0-windows\ACS575, Demo C#.dll
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\bin\Debug\net8.0-windows\ACS575, Demo C#.pdb
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575__Demo_C_.Form1.resources
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.csproj.GenerateResource.cache
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.AssemblyInfoInputs.cache
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.AssemblyInfo.cs
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.csproj.CoreCompileInputs.cache
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.sourcelink.json
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.dll
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\refint\ACS575, Demo C#.dll
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.pdb
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ACS575, Demo C#.genruntimeconfig.cache
+C:\Users\Alekz\Desktop\acs575finalproject\Demo\ACS575, Demo C#\obj\Debug\net8.0-windows\ref\ACS575, Demo C#.dll

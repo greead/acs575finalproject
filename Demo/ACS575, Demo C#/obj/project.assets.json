@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alekz\\Desktop\\ACS575 - Final Project\\acs575finalproject\\Demo\\ACS575, Demo C#\\ACS575, Demo C#.csproj",
+      "projectUniqueName": "C:\\Users\\Alekz\\Desktop\\acs575finalproject\\Demo\\ACS575, Demo C#\\ACS575, Demo C#.csproj",
       "projectName": "ACS575, Demo C#",
-      "projectPath": "C:\\Users\\Alekz\\Desktop\\ACS575 - Final Project\\acs575finalproject\\Demo\\ACS575, Demo C#\\ACS575, Demo C#.csproj",
+      "projectPath": "C:\\Users\\Alekz\\Desktop\\acs575finalproject\\Demo\\ACS575, Demo C#\\ACS575, Demo C#.csproj",
       "packagesPath": "C:\\Users\\Alekz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alekz\\Desktop\\ACS575 - Final Project\\acs575finalproject\\Demo\\ACS575, Demo C#\\obj\\",
+      "outputPath": "C:\\Users\\Alekz\\Desktop\\acs575finalproject\\Demo\\ACS575, Demo C#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

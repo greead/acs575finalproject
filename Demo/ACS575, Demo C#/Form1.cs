@@ -111,17 +111,20 @@ namespace ACS575__Demo_C_ {
         public class InvSaveCred {
             public int server_id { get; set; }
             public string name { get; set; }
-            public List<List<int>> inventory { get; set; }
+            public List<List<int>>? inventory { get; set; }
         }
 
-        private void btnSaveInv_Click(object sender, EventArgs e) {
-            var query = txtEmail.Text.Trim();
-            foreach b
+        private async void btnSaveInv_Click(object sender, EventArgs e) {
+            List<List<int>> inventory = new List<List<int>>();
+            CharacterItem? credentials = lstCharacters.SelectedItem as CharacterItem;
+            foreach (Item it in lstInventory.Items) {
+                inventory.Add(new List<int>([int.Parse(it.id), 1]));
+            }
             var request = new HttpRequestMessage {
-                Method = HttpMethod.Get,
+                Method = HttpMethod.Post,
                 RequestUri = new Uri("http://localhost:8000/inventory/all"),
                 Content = new StringContent(
-                    JsonSerializer.Serialize(new inv{ email = query }),
+                    JsonSerializer.Serialize(new InvSaveCred { name=credentials.name, server_id=int.Parse(credentials.server_id), inventory=inventory}),
                     Encoding.UTF8,
                     "application/json"),
             };
@@ -129,9 +132,7 @@ namespace ACS575__Demo_C_ {
             var respStr = await response.Content.ReadAsStringAsync();
             Debug.WriteLine(respStr);
             JsonNode? respJson = JsonNode.Parse(respStr);
-            foreach (var item in respJson.AsArray()) {
-                lstCharacters.Items.Add(new CharacterItem(item["name"].ToString(), item["server_id"].ToString()));
-            }
+
         }
 
         public class CharacterCredentials {
